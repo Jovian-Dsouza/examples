@@ -9,7 +9,7 @@ runs:
       shell: bash
     - run: echo "DEFAULT_ARCIUM_PROGRAMS_VERSION=0.1.47" >> $GITHUB_ENV
       shell: bash
-    - run: echo "SOLANA_CLI_VERSION=2.1.6" >> $GITHUB_ENV
+    - run: echo "SOLANA_CLI_VERSION=2.2.19" >> $GITHUB_ENV
       shell: bash
     - run: echo "CARGO_TERM_COLOR=always" >> $GITHUB_ENV
       shell: bash
